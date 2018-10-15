@@ -20,11 +20,6 @@ public interface RpAccountTransactionService {
     RpAccount debitToAccount(String userNo,BigDecimal amount,String requestNo,String bankTrxNo,
                              String trxType,String remark)throws BizException;
 
-    /** 减款：有银行流水 **/
-    RpAccount debitToAccounts(String userNo,BigDecimal amount,String requestNo,String bankTrxNo,
-                             String trxType,String remarks)throws BizException;
-
-
 
 
 
