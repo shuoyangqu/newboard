@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="newboard-client:war">
+    <output-path>$PROJECT_DIR$/../newboard/newboard-client/target</output-path>
+    <root id="archive" name="newboard-client.war">
+      <element id="artifact" artifact-name="newboard-client:war exploded" />
+    </root>
+  </artifact>
+</component>

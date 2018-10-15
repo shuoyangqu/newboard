@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="commonutils" />
+        <module name="roncoo-pay-app-notify" />
+        <module name="roncoo-pay-app-order-polling" />
+        <module name="roncoo-pay-app-reconciliation" />
+        <module name="roncoo-pay-app-settlement" />
+        <module name="roncoo-pay-common-core" />
+        <module name="roncoo-pay-service" />
+        <module name="roncoo-pay-web-boss" />
+        <module name="roncoo-pay-web-gateway" />
+        <module name="roncoo-pay-web-merchant" />
+        <module name="roncoo-pay-web-sample-shop" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commonutils" target="1.7" />
+      <module name="newboard" target="1.5" />
+      <module name="newboard-client" target="1.7" />
+      <module name="newboard-dao" target="1.7" />
+      <module name="newboard-service" target="1.7" />
+      <module name="roncoo-pay-app-notify" target="1.7" />
+      <module name="roncoo-pay-app-order-polling" target="1.7" />
+      <module name="roncoo-pay-app-reconciliation" target="1.7" />
+      <module name="roncoo-pay-app-settlement" target="1.7" />
+      <module name="roncoo-pay-common-core" target="1.7" />
+      <module name="roncoo-pay-service" target="1.7" />
+      <module name="roncoo-pay-web-boss" target="1.7" />
+      <module name="roncoo-pay-web-gateway" target="1.7" />
+      <module name="roncoo-pay-web-merchant" target="1.7" />
+      <module name="roncoo-pay-web-sample-shop" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

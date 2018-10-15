@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../newboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/common-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/newboard-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/newboard-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/newboard-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-app-notify" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-app-order-polling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-app-reconciliation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-app-settlement" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-web-boss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-web-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-web-merchant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../newboard/roncoo-pay-web-sample-shop" charset="UTF-8" />
+  </component>
+</project>
